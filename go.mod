@@ -14,7 +14,7 @@ require (
 	github.com/spf13/viper v1.6.2 // indirect
 	github.com/sykesm/zap-logfmt v0.0.3 // indirect
 	gopkg.in/yaml.v2 v2.3.0
-	k8s.io/api v0.18.1
-	k8s.io/apimachinery v0.18.1
-	k8s.io/client-go v0.18.1
+	k8s.io/api v0.18.14
+	k8s.io/apimachinery v0.18.14
+	k8s.io/client-go v0.18.14
 )
